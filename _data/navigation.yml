@@ -5,23 +5,20 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Speech"
+    url: /Speech/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Organizing"
+    url: /Organizing/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Call for papers"
+    url: /Papers/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Registration"
+    url: /Registration/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Conference Program"
+    url: /Program/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contact"
+    url: /Contact/
