@@ -166,9 +166,6 @@ redirect_from:
 }
 
 .speech-container {
-    position: relative; /* 相对定位，允许正常滚动 */
-    width: 100vw; /* 占满整个视口宽度，避免受父容器的影响 */
-    margin-left: calc(50% - 50vw); /* 强制使容器的起始点扩展到页面边界 */
     padding: 30px;
     background-color: #ffffff;
     border-radius: 10px;
