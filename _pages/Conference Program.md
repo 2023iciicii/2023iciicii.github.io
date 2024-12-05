@@ -6,14 +6,14 @@ redirect_from:
 
 {% include base_path %}
 <div class="conference-program-container">
-  <h1 class="program-title">Conference Program - ICIICII 2021</h1>
+  <h1 class="program-title">Conference Program - ICIICII 2023</h1>
 
   <!-- Dec. 16-18 -->
-  <h2>Conference Program - Dec. 16-18, 2022</h2>
+  <h2>Conference Program - Dec. 16-18, 2023</h2>
   <p>For all Zoom details, please refer to the "Registration" section.</p>
 
   <!-- Program Table for Dec. 18 -->
-  <h3>Dec. 18, 2022</h3>
+  <h3>Dec. 18, 202w</h3>
   <table class="program-table">
     <thead>
       <tr>
@@ -90,7 +90,7 @@ redirect_from:
   </table>
 
   <!-- Dec. 19 -->
-  <h3>Dec. 19, 2022</h3>
+  <h3>Dec. 19, 2023</h3>
   <table class="program-table">
     <thead>
       <tr>
