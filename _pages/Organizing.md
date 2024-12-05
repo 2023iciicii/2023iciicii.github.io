@@ -1,6 +1,6 @@
 ---
 permalink: /Organizing/
-title: ICIICII 2021 Organizers and Committees
+title: ICIICII 2023 Organizers and Committees
 author_profile: true
 redirect_from:  
 - /resume
