@@ -13,7 +13,7 @@ redirect_from:
   <p>For all Zoom details, please refer to the "Registration" section.</p>
 
   <!-- Program Table for Dec. 18 -->
-  <h3>Dec. 18, 202w</h3>
+  <h3>Dec. 18, 2023</h3>
   <table class="program-table">
     <thead>
       <tr>
