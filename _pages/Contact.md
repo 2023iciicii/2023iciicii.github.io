@@ -6,7 +6,7 @@ redirect_from:
 
 {% include base_path %}
 <div class="contact-container">
-  <h1 class="contact-title">Conference Contact Information - ICIICII 2021</h1>
+  <h1 class="contact-title">Conference Contact Information - ICIICII 2023</h1>
 
   <h2>Registration Inquiries</h2>
   <p>If you have any registration inquiries, please contact the appropriate assistant based on your location:</p>
