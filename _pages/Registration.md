@@ -22,7 +22,6 @@ redirect_from:
       Please download the <a href="https://zoom.us/download#client_4meeting" target="_blank">ZOOM client software</a> in advance of the conference. ZOOM is available for both desktop and mobile devices.
     </p>
   </div>
-
 </div>
 
 <style>
