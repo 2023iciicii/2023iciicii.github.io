@@ -97,7 +97,7 @@ redirect_from:
   /* Title */
   .cfp-title {
     font-size: 2.2em;
-    color: #2C3E50;
+    color: #2980B9;
     text-align: center;
     margin-bottom: 20px;
   }
