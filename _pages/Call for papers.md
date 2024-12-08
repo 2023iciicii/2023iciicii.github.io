@@ -7,11 +7,11 @@ redirect_from:
 <div class="cfp-container">
   <h1 class="cfp-title">Call for Papers</h1>
   <p class="cfp-intro">
-    The 2022 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2022) will be held from <strong>16-18 December 2022</strong> in <strong>Shantou, China</strong>.
+    The 2023 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2022) will be held from <strong>8-9 December 2023</strong> in <strong>Shantou, China</strong>.
   </p>
 
   <p class="cfp-details">
-    ICIICII 2022 intends to be a global forum for researchers and engineers to present and discuss recent innovations and applications in Industrial Informatics - Computing Technology, Intelligent Technology and Industrial Information Integration.
+    ICIICII 2023 intends to be a global forum for researchers and engineers to present and discuss recent innovations and applications in Industrial Informatics - Computing Technology, Intelligent Technology and Industrial Information Integration.
   </p>
 
   <h2 class="cfp-subtitle">Specific Topics of Interest Include, But Are Not Limited To:</h2>
@@ -68,19 +68,19 @@ redirect_from:
   <table class="cfp-dates">
     <tr>
       <td><strong>Paper Submission:</strong></td>
-      <td>July 10, 2022</td>
+      <td>July 10, 2023</td>
     </tr>
     <tr>
       <td><strong>Paper Submission Deadline:</strong></td>
-      <td>August 25, 2022</td>
+      <td>August 25, 2023</td>
     </tr>
     <tr>
       <td><strong>Notification of Acceptance:</strong></td>
-      <td>September 20, 2022</td>
+      <td>September 20, 2023</td>
     </tr>
     <tr>
       <td><strong>Conference Date:</strong></td>
-      <td>December 16-18, 2022</td>
+      <td>December 8-9, 2023</td>
     </tr>
   </table>
 </div>
